@@ -1,5 +1,4 @@
 package beginJava;
-
 import java.util.Scanner;
 
 public class Hello {
@@ -15,8 +14,7 @@ public class Hello {
 		String lname = sc.nextLine();
 		
 		System.out.println("Good Morning " +fname + " " +lname);
-		
-
+		System.out.println("hello world");
+		System.out.println("added good morning message");
 	}
-
 }
