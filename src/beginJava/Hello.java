@@ -12,8 +12,9 @@ public class Hello {
 		String fname = sc.nextLine();
 		System.out.println("Enter Your Second Name : ");
 		String lname = sc.nextLine();
-		
 		System.out.println("Good Morning " +fname + " " +lname);
+	}
+}
 		System.out.println("hello world");
 		System.out.println("added good morning message");
 	}
