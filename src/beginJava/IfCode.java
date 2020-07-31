@@ -17,5 +17,6 @@ public class IfCode {
 		else {
 			System.out.println("Num1 is Equal to Num2");
 		}
+		System.out.println("This code will always execute");
 	}
 }
